@@ -1,0 +1,7 @@
+/*
+variables
+Data Types
+functions
+Conditionals
+Objects
+*/
